@@ -121,7 +121,7 @@ Ejecuta el bucle principal de la interfaz, manteniendo la ventana abierta y perm
 
 ## Captura del proyecto:
 
-![Página principal](Imagenes/Captura de pantalla 2024-10-13 224245.png)
+![Página principal](https://github.com/lppz16/Triky/blob/827d4876346a00fa19b7adefc7cd5ec264376ea0/Imagenes/Captura%20de%20pantalla%202024-10-13%20224245.png))
 
 ![](https://github.com/lppz16/Calculadora-html-css/blob/main/Img/Captura%20de%20pantalla%202024-10-05%20233303.png?raw=true)
 
