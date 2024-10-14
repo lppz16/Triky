@@ -124,6 +124,7 @@ Ejecuta el bucle principal de la interfaz, manteniendo la ventana abierta y perm
 ![Página principal](https://github.com/lppz16/Triky/blob/827d4876346a00fa19b7adefc7cd5ec264376ea0/Imagenes/Captura%20de%20pantalla%202024-10-13%20224245.png)
 
 ![](https://github.com/lppz16/Triky/blob/0979b1d0241c8bc1adb9a7471395e79d46fe24a5/Imagenes/Captura%20de%20pantalla%202024-10-13%20224306.png)
+![](https://github.com/lppz16/Triky/blob/c03749e0c4237b42f94013e015ce33073027f5e5/Imagenes/Captura%20de%20pantalla%202024-10-13%20224907.png)
 
 ## Autor
 
